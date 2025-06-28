@@ -15,3 +15,11 @@ Add profile photo
 Module 4 
 
 Block firends
+
+Module 5 
+
+Video call with friends
+
+Module 6 
+
+Audio call with friends
