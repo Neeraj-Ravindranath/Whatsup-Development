@@ -11,3 +11,7 @@ Upload status
 Module 3
 
 Add profile photo
+
+Module 4 
+
+Block firends
